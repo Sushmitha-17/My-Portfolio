@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(244, 250, 162);
+}
+.Qualityhead{
+    font-family: century;
+    position: fixed;
+    left:43%;
+}
+.Quality{
+    font-family: 'Architects Daughter', cursive;
+    color: red;
+    font-size: larger;
+    position:fixed;
+    left:30%;
+    top:10%;
+}

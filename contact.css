@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(244, 250, 162);
+}
+
+.contactheading{
+    font-family: century;
+    position: fixed;
+    top:7%;
+    left:43%;
+}
+.contact{
+    font-family: 'Architects Daughter', cursive;
+    color: red;
+    font-size: larger;
+    position:fixed;
+    top:30%;
+    left:5%;
+}
